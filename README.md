@@ -3,5 +3,7 @@ This Java project tackles the Eight Queens Problem on a 15x15 chessboard. '0's r
 
 Features: 
 Places eight queen chess pieces on a 15x15 board 
+
 Uses an algorithm that finds any conflicts 
+
 Resets the board if there no valid move exist 
